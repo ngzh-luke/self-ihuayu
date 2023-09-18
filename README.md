@@ -3,3 +3,7 @@
  - Copyright (c) 2023 Kittipich "Luke" Aiumbhornsin with MIT License.
 
 ## Application
+ - Front-end completed using Vue.js
+ - Back-end handle by Flask
+ - Database uses Postgresql
+The client side able to lookup and query any Mandarin words/definition in English/Pinyin
